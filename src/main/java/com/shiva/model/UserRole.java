@@ -1,4 +1,4 @@
-package com.shiva.ecommerce;
+package com.shiva.model;
 
 public enum UserRole {
     CUSTOMER,

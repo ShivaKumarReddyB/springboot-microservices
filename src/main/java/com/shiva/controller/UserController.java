@@ -1,5 +1,7 @@
-package com.shiva.ecommerce;
+package com.shiva.controller;
 
+import com.shiva.service.UserService;
+import com.shiva.model.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

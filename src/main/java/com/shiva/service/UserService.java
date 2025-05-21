@@ -1,5 +1,7 @@
-package com.shiva.ecommerce;
+package com.shiva.service;
 
+import com.shiva.model.User;
+import com.shiva.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
